@@ -33,6 +33,3 @@ minimum_sdk_version = 23
 [osx]
 bundle_identifier = com.defold.firebase
 
-[native_extension]
-app_manifest = /generated.appmanifest
-
